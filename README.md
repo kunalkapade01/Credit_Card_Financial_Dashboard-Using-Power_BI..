@@ -8,10 +8,10 @@
   - This solution will enable stakeholders to monitor operational efficiency, track financial metrics, and identify emerging trends through interactive data visualizations,
   - Ensuring informed decision-making and streamlined performance analysis on a weekly basis..
 
-- **Import data into SQL Database :**
+- **Import Data into postgre SQL Database :**
 
   - **1.** Prepare the .CSV files
-  - **2. ** Create a one database, and in database create tables in PostgreSQl
-  - **3. ** Import CSv files into pgadmin PostgreSQl.
+  - **2.** Create a one database, and in database create tables in PostgreSQl
+  - **3.** Import CSv files into pgadmin PostgreSQl.
  
 - 
