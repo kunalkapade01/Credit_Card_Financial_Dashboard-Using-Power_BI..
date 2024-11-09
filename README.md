@@ -14,4 +14,8 @@
   - **2.** Create a one database, and in database create tables in PostgreSQl
   - **3.** Import CSv files into pgadmin PostgreSQl.
  
-- 
+- **Project Insights :- Week 53**
+
+  - **WoW Changes: :**
+
+  
