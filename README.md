@@ -17,5 +17,5 @@
 - **Project Insights :- Week 53**
 
   - **WoW Changes: :**
-
-  
+    - Revenue increased by 28.8%,
+    - 
