@@ -12,7 +12,7 @@
 
   - **1.** Prepare the .CSV files
   - **2.** Create a one database, and in database create tables in PostgreSQl
-  - **3.** Import CSv files into pgadmin PostgreSQl.
+  - **3.** Import CSV files into pgadmin PostgreSQl.
  
 - **Project Insights :- Week 53**
 
