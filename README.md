@@ -18,4 +18,17 @@
 
   - **WoW Changes: :**
     - Revenue increased by 28.8%,
-    - 
+    - Total Transaction amount & count increased by 44.5% & 65.6% upto 52 week
+    - Customer Count increased by 57.5%
+   
+  - **Overview YTD (Year to Date):**
+    - Overall revenue by 57M
+    - Total interest is 8M
+    - Total customer income is 576M & cust_score is 3.19
+    - Total transaction amout is 45M
+    - Total transaction count is 656K
+    - Male customer are contribute more in revenue by 31M & Female 26M
+    - Blue and Silver credit card are countribute to 93% of overall trasaction.
+    - TX, NY and CA is countribute to 68%
+    - Overall activate rate is 57.5%
+    - Overall Delinquent rate is 6.06%
