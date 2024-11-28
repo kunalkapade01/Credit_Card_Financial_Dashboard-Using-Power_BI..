@@ -1,4 +1,4 @@
-# **Credit_Card_Financial_Dashboard..**
+![Credit Card  Financial Customer Report Image](https://github.com/user-attachments/assets/34335754-d481-4584-ad92-1a2aae80f4ed)# **Credit_Card_Financial_Dashboard..**
 
 - **Credit Card Transaction & Customer Dashboard Report Using Power-BI :**
 
@@ -32,3 +32,6 @@
     - TX, NY and CA is countribute to 68%
     - Overall activate rate is 57.5%
     - Overall Delinquent rate is 6.06%
+
+- **Credit Card Financial Customer Report :**
+  ![Credit Card  Financial Customer Report Image](https://github.com/user-attachments/assets/2e282bbb-c695-4e23-9e47-60213c968a66)
