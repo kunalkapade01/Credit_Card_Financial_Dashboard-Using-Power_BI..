@@ -22,9 +22,9 @@
     - Customer Count increased by 57.5%
    
   - **Overview YTD (Year to Date) :**
-    - 1.Overall revenue by 57M
-    - 2.Total interest is 8M
-    - 3.Total customer income is 576M & cust_score is 3.19
+    - Overall revenue by 57M
+    - Total interest is 8M
+    - Total customer income is 576M & cust_score is 3.19
     - Total transaction amout is 45M
     - Total transaction count is 656K
     - Male customer are contribute more in revenue by 31M & Female 26M
