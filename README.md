@@ -11,7 +11,7 @@
 - **Import Data into postgre SQL Database :**
 
   - **1.** Prepare the .CSV files
-  - **2.** Create a one database, and in database create tables in PostgreSQl
+  - **2.** Create a one database, and in database create tables in using PostgreSQl
   - **3.** Import CSV files into pgadmin PostgreSQl.
  
 - **Project Insights :- Week 53**
